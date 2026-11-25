@@ -1,9 +1,12 @@
 # yolov8-streamlit-app 
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-app-rb22pw62vorcmeabygaif6.streamlit.app/)
+
 * An object/segmentation detection app created using streamlit. Refer below for all the features of the app
 * Model used: https://github.com/ultralytics/ultralytics
-* App link: https://yolov8-app.streamlit.app/
+* App link: https://app-app-rb22pw62vorcmeabygaif6.streamlit.app/
 * Link to EasyOCR: https://github.com/JaidedAI/EasyOCR
-* NOTE: The streamlit app might not work if the GitLFS's free bandwidth exceeds 1 gb.
+* Based on [ongaunjie1/yolov8-streamlit](https://github.com/ongaunjie1/yolov8-streamlit)
 
 # App Features 
 * Object **detection/segmentation** using pre-trained yoloV8 model (trained on Open Images V7 dataset with 600 distinct classes) , refer to openimages.txt for the list of objects detectable using the base model
