@@ -1,4 +1,4 @@
-# yolov8-streamlit-app 
+# yolov8-object-detection-app
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-app-rb22pw62vorcmeabygaif6.streamlit.app/)
 
